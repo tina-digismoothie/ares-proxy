@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/ares-json", "dest": "/api/ares.json.js" }
+  ]
+}
